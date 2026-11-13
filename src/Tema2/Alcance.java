@@ -1,3 +1,5 @@
+package Tema2;
+
 public class Alcance {
     static void main() {
         int valor=11;

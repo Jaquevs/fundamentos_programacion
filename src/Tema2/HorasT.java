@@ -1,4 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
+package Tema2;
 
 import java.util.Scanner;
 

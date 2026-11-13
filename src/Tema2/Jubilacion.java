@@ -1,4 +1,5 @@
-import java.lang.classfile.attribute.ModuleMainClassAttribute;
+package Tema2;
+
 import java.util.Scanner;
 
 public class Jubilacion {//algoritmo
